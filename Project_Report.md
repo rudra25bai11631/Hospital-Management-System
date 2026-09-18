@@ -2,10 +2,10 @@
 
 ## 1. Cover Page
 **Project Title**: Hospital Management System  
-**Course Name**: (Enter your Java course name here)  
-**Student Name**: (Enter your name here)  
-**Registration Number**: (Enter your ID here)  
-**Date of Submission**: (Enter date here)  
+**Course Name**: Programming-in-java 
+**Student Name**: RUDRA RAI  
+**Registration Number**: 25BAI11631  
+**Date of Submission**: 18/09/2026  
 
 ---
 
@@ -45,12 +45,12 @@ The project uses a basic Two-Tier Architecture:
 
 ## 7. Design Diagrams
 
-*(Note: Paste the screenshots of the UML diagrams I provided you here!)*
-
 - **Use Case Diagram**: Shows the admin interacting with the different menu options.
 - **Workflow Diagram**: Menu -> Pick Option -> Enter Data -> Database updates -> Back to Menu.
 - **Class Diagram**: Shows classes like Main, Patient, Doctor, Appointment, and Billing.
 - **ER Diagram**: Shows the relationship between Patients, Doctors, Appointments, and Billing tables.
+ 
+
 
 ---
 
