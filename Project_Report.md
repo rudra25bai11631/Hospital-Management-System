@@ -69,6 +69,12 @@ Some key points about the code:
 ---
 
 ## 10. Screenshots / Results
+<img width="1241" height="422" alt="Screenshot 2026-09-18 194813" src="https://github.com/user-attachments/assets/1d0d5c46-c42e-4c8f-abbb-67af3c8d0826" />
+<img width="910" height="337" alt="Screenshot 2026-09-18 195454" src="https://github.com/user-attachments/assets/f7dccb01-94e0-4aee-a33b-5e7501eb7612" />
+<img width="887" height="345" alt="Screenshot 2026-09-18 195426" src="https://github.com/user-attachments/assets/c017704a-bc46-4bc8-a22f-cee2fca7eabc" />
+<img width="1047" height="325" alt="Screenshot 2026-09-18 195353" src="https://github.com/user-attachments/assets/06043ff2-4494-4684-9c7c-c29d7db74e8c" />
+<img width="1066" height="525" alt="Screenshot 2026-09-18 195258" src="https://github.com/user-attachments/assets/5e416719-c19b-44b6-9662-5e0906c41515" />
+
 
 
 ---
